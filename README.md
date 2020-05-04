@@ -1,0 +1,1 @@
+# mani-india-map.json
